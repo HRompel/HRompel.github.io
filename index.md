@@ -17,3 +17,4 @@ Artemis Fowl ist ein hoch intelligenter Irischer Junge, der erst als erster das 
  * Minerva Paradizo
  
 > Wenn ich gewinne, wird man sagen, ich sei ein Genie, wenn ich verliere, wird es heißen, ich sei übergeschnappt. So wird Geschichte geschrieben.
+
